@@ -1,27 +1,22 @@
 # 👋 Hey, I'm nedcodes
 
-I test .cursorrules so you don't have to.
+I help developers get more out of Cursor AI. I test rules, build tooling, and write about what actually works (and what doesn't).
 
-I run before/after comparisons through Cursor CLI to find rules that actually change the output. Most don't. The ones that do end up in my packs.
+## What I do
 
-## What I've found
+- **[cursor-lint](https://github.com/cursorrulespacks/cursor-lint)** — Open source linter for Cursor rules. Catches broken configs before they waste your time.
+- **[50+ free rules](https://github.com/cursorrulespacks/cursorrules-collection)** — The largest free collection of tested .cursorrules and .mdc files. Organized by language, framework, and practice.
+- **[Articles](https://dev.to/nedcodes)** — Real tests, real results. No hype.
 
-Rules that work share three properties: they're **specific** (exact patterns, not vibes), **verifiable** (you can check compliance in a 2-second code review), and **additive** (they ask for something Cursor wouldn't do by default).
+## Writing
 
-## Free stuff
+Some stuff I've published:
+- [I Tested Whether Cursor's Auto Mode Actually Picks the Right Model](https://dev.to/nedcodes/i-tested-whether-cursors-auto-mode-actually-picks-the-right-model-20ml)
+- [Cursor Agent Mode Ignores .cursorrules — Use .mdc Instead](https://dev.to/nedcodes/cursor-agent-mode-ignores-cursorrules-use-mdc-instead-5flb)
+- [I Tested Every Way .cursorrules Can Break](https://dev.to/nedcodes/i-tested-every-way-cursorrules-can-break-most-of-them-dont-pii)
 
-- 🆓 [Starter Pack](https://cursorrulespacks.gumroad.com/l/cursor-starter) - 3 tested rules for React, TypeScript, and debugging
-- 📦 [33 free rules](https://github.com/cursorrulespacks/cursorrules-collection) - organized by language and framework
-- 📝 [Dev.to articles](https://dev.to/nedcodes) - what works, what doesn't, and why
+## Need help with your Cursor setup?
 
-## Paid packs
+I do async Cursor audits. I'll review your rules, project structure, and config, then tell you what's broken and how to fix it. No calls, just a written report with specific fixes.
 
-- ⚛️ [React & Next.js](https://cursorrulespacks.gumroad.com/l/react-nextjs-rules-pack) ($12)
-- 🔷 [TypeScript Strict](https://cursorrulespacks.gumroad.com/l/typescript-strict-rules-pack) ($12)
-- 🐍 [Python Backend](https://cursorrulespacks.gumroad.com/l/python-backend-rules-pack) ($15)
-- 🐛 [Debugging](https://cursorrulespacks.gumroad.com/l/debugging-rules-pack) ($12)
-- 📦 [Complete Bundle](https://cursorrulespacks.gumroad.com/l/complete-cursor-rules-bundle) ($29)
-
-## Links
-
-🛒 [Gumroad Store](https://cursorrulespacks.gumroad.com) · 📝 [Dev.to](https://dev.to/nedcodes) · 💬 [Cursor Forum](https://forum.cursor.com) · 📦 [Free Collection](https://github.com/cursorrulespacks/cursorrules-collection)
+DM me on [Dev.to](https://dev.to/nedcodes) or the [Cursor Forum](https://forum.cursor.com) (nedcodes on both).
