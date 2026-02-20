@@ -1,6 +1,6 @@
 # 👋 Hey, I'm nedcodes
 
-I test Cursor AI rules and build tooling. I also do **[$50 async setup audits](https://cursorrulespacks.github.io/)** — I review your rules, project structure, and config, then send a written report with exactly what to fix. No calls, 48-hour turnaround.
+I test Cursor AI rules and build tooling. I also do **$50 async setup audits** — I review your rules, project structure, and config, then send a written report with exactly what to fix. No calls, 48-hour turnaround. Email **cursorrulespacks@gmail.com** to get started.
 
 ## What I do
 
